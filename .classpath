@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-20">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/barcodes-8.0.2.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/bouncy-castle-adapter-8.0.2.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/bouncy-castle-connector-8.0.2.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/bouncy-castle-fips-adapter-8.0.2.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/commons-8.0.2.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/commons-collections4-4.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/commons-collections4-4.4-sources.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/commons-collections4-4.4-tests.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/commons-collections4-4.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/font-asian-8.0.2.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/forms-8.0.2.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/hyph-8.0.2.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/io-8.0.2.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/itext-1.4.6.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/jfreechart-1.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/jfreechart-1.0.1-demo.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/kernel-8.0.2.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/layout-8.0.2.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/log4j-api-2.22.1.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/log4j-core-2.22.1.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/mysql-connector-j-8.2.0.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/pdfa-8.0.2.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/pdftest-8.0.2.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/poi-5.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/poi-ooxml-5.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/poi-ooxml-full-5.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/poi-ooxml-lite-5.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/sign-8.0.2.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/styled-xml-parser-8.0.2.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/svg-8.0.2.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse-workspace/Java Rewrite Excercise/Nonametoo_2_v4_unoffical/xmlbeans-5.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
